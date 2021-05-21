@@ -1,5 +1,5 @@
 baseURL: https://21sumdcs.netlify.app/
-title: Your title
+title: DCS 550 
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -26,4 +26,4 @@ params:
       url: https://github.com/gohugoio
     - icon: twitter
       name: Twitter
-      url: https://twitter.com/gohugoio
+      url: https:google.com

@@ -1,0 +1,15 @@
+---
+title: new GGPLO2 graph
+author: 'Naceur Fennich'
+date: '2021-05-20'
+slug: []
+categories: [R]
+tags: ["R Marckdown", "plot"]
+
+```{r}
+library(tidyverse)
+
+mpg %>% ggplot(aes( class , fill = drv))+ geom_bar()
+
+---
+

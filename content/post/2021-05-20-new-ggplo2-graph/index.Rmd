@@ -1,0 +1,9 @@
+---
+title: new GGPLO2 graph
+author: ''
+date: '2021-05-20'
+slug: []
+categories: []
+tags: []
+---
+
